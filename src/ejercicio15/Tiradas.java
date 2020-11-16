@@ -1,7 +1,4 @@
-package EjercicioPedro;
-
-import java.lang.invoke.MethodHandles;
-import java.lang.invoke.VarHandle;
+package ejercicio15;
 
 public class Tiradas implements Runnable {
 

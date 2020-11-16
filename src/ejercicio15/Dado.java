@@ -1,7 +1,6 @@
-package EjercicioPedro;
+package ejercicio15;
 
 import java.util.Random;
-import java.util.concurrent.atomic.AtomicIntegerArray;
 import java.util.concurrent.atomic.LongAdder;
 
 public class Dado {
